@@ -1,0 +1,18 @@
+﻿@model List<Gender>
+@{
+    ViewData["Title"] = "Cat names grouped by owners gender";
+}
+<h2>@ViewData["Title"]</h2>
+
+@foreach (var gender in Model)
+{
+    <h4>@gender.GenderType</h4>
+    <ul>
+        @foreach (var cat in gender.Cats)
+        {
+            <li>@cat.Name</li>
+        }
+    </ul>
+}
+
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })

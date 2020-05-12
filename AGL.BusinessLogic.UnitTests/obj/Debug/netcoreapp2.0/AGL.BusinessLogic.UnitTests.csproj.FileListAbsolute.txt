@@ -1,0 +1,92 @@
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.deps.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.runtimeconfig.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.runtimeconfig.dev.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Library.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.AssemblyInfoInputs.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.AssemblyInfo.cs
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.deps.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.runtimeconfig.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.runtimeconfig.dev.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Library.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.AssemblyInfoInputs.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.AssemblyInfo.cs
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.deps.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.runtimeconfig.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.runtimeconfig.dev.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Library.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csprojAssemblyReference.cache
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.AssemblyInfoInputs.cache
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.AssemblyInfo.cs
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csproj.CopyComplete
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.genruntimeconfig.cache
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.deps.json
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.runtimeconfig.json
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.runtimeconfig.dev.json
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.pdb
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Library.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.pdb
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csprojAssemblyReference.cache
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csproj.CoreCompileInputs.cache
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.AssemblyInfoInputs.cache
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.AssemblyInfo.cs
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.csproj.CopyComplete
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.dll
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.pdb
+D:\AGL-Challenge\AGL.BusinessLogic.UnitTests\obj\Debug\netcoreapp2.0\AGL.BusinessLogic.UnitTests.genruntimeconfig.cache

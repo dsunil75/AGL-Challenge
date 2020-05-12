@@ -1,0 +1,14 @@
+D:\AGL-Challenge\AGL.ExternalServices\bin\Debug\netcoreapp2.0\AGL.ExternalServices.deps.json
+D:\AGL-Challenge\AGL.ExternalServices\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+D:\AGL-Challenge\AGL.ExternalServices\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+D:\AGL-Challenge\AGL.ExternalServices\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+D:\AGL-Challenge\AGL.ExternalServices\bin\Debug\netcoreapp2.0\AGL.Library.dll
+D:\AGL-Challenge\AGL.ExternalServices\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+D:\AGL-Challenge\AGL.ExternalServices\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+D:\AGL-Challenge\AGL.ExternalServices\obj\Debug\netcoreapp2.0\AGL.ExternalServices.csprojAssemblyReference.cache
+D:\AGL-Challenge\AGL.ExternalServices\obj\Debug\netcoreapp2.0\AGL.ExternalServices.csproj.CoreCompileInputs.cache
+D:\AGL-Challenge\AGL.ExternalServices\obj\Debug\netcoreapp2.0\AGL.ExternalServices.AssemblyInfoInputs.cache
+D:\AGL-Challenge\AGL.ExternalServices\obj\Debug\netcoreapp2.0\AGL.ExternalServices.AssemblyInfo.cs
+D:\AGL-Challenge\AGL.ExternalServices\obj\Debug\netcoreapp2.0\AGL.ExternalServices.csproj.CopyComplete
+D:\AGL-Challenge\AGL.ExternalServices\obj\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+D:\AGL-Challenge\AGL.ExternalServices\obj\Debug\netcoreapp2.0\AGL.ExternalServices.pdb

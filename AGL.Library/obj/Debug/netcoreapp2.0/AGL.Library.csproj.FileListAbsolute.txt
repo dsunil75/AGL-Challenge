@@ -1,0 +1,9 @@
+D:\AGL-Challenge\AGL.Library\bin\Debug\netcoreapp2.0\AGL.Library.deps.json
+D:\AGL-Challenge\AGL.Library\bin\Debug\netcoreapp2.0\AGL.Library.dll
+D:\AGL-Challenge\AGL.Library\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+D:\AGL-Challenge\AGL.Library\obj\Debug\netcoreapp2.0\AGL.Library.csproj.CoreCompileInputs.cache
+D:\AGL-Challenge\AGL.Library\obj\Debug\netcoreapp2.0\AGL.Library.AssemblyInfoInputs.cache
+D:\AGL-Challenge\AGL.Library\obj\Debug\netcoreapp2.0\AGL.Library.AssemblyInfo.cs
+D:\AGL-Challenge\AGL.Library\obj\Debug\netcoreapp2.0\AGL.Library.dll
+D:\AGL-Challenge\AGL.Library\obj\Debug\netcoreapp2.0\AGL.Library.pdb
+D:\AGL-Challenge\AGL.Library\obj\Debug\netcoreapp2.0\AGL.Library.csprojAssemblyReference.cache

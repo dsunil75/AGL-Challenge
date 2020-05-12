@@ -1,0 +1,9 @@
+D:\AGL-Challenge\AGL.DTO\bin\Debug\netcoreapp2.0\AGL.Dto.deps.json
+D:\AGL-Challenge\AGL.DTO\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+D:\AGL-Challenge\AGL.DTO\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+D:\AGL-Challenge\AGL.DTO\obj\Debug\netcoreapp2.0\AGL.Dto.csproj.CoreCompileInputs.cache
+D:\AGL-Challenge\AGL.DTO\obj\Debug\netcoreapp2.0\AGL.Dto.AssemblyInfoInputs.cache
+D:\AGL-Challenge\AGL.DTO\obj\Debug\netcoreapp2.0\AGL.Dto.AssemblyInfo.cs
+D:\AGL-Challenge\AGL.DTO\obj\Debug\netcoreapp2.0\AGL.Dto.dll
+D:\AGL-Challenge\AGL.DTO\obj\Debug\netcoreapp2.0\AGL.Dto.pdb
+D:\AGL-Challenge\AGL.DTO\obj\Debug\netcoreapp2.0\AGL.Dto.csprojAssemblyReference.cache

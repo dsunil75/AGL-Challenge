@@ -1,0 +1,88 @@
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.deps.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.runtimeconfig.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.runtimeconfig.dev.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Library.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.AssemblyInfoInputs.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.AssemblyInfo.cs
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-master\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.deps.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.runtimeconfig.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.runtimeconfig.dev.json
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Library.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.AssemblyInfoInputs.cache
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.AssemblyInfo.cs
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.dll
+C:\Users\sunil\Desktop\agl final\AGL-master (2)\AGL-Dev-Test\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.deps.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.runtimeconfig.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.runtimeconfig.dev.json
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Library.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csprojAssemblyReference.cache
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.AssemblyInfoInputs.cache
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.AssemblyInfo.cs
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csproj.CopyComplete
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.dll
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.pdb
+C:\Users\dsuni\Downloads\dsunil75-agltest-e8b59ae3451d (2)\dsunil75-agltest-e8b59ae3451d\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.genruntimeconfig.cache
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\appsettings.json
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.deps.json
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.runtimeconfig.json
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.runtimeconfig.dev.json
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.dll
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Presentation.pdb
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.dll
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Dto.dll
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.ExternalServices.dll
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Library.dll
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.BusinessLogic.pdb
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Dto.pdb
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.ExternalServices.pdb
+D:\AGL-Challenge\AGL.Presentation\bin\Debug\netcoreapp2.0\AGL.Library.pdb
+D:\AGL-Challenge\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csprojAssemblyReference.cache
+D:\AGL-Challenge\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csproj.CoreCompileInputs.cache
+D:\AGL-Challenge\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.AssemblyInfoInputs.cache
+D:\AGL-Challenge\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.AssemblyInfo.cs
+D:\AGL-Challenge\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.csproj.CopyComplete
+D:\AGL-Challenge\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.dll
+D:\AGL-Challenge\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.pdb
+D:\AGL-Challenge\AGL.Presentation\obj\Debug\netcoreapp2.0\AGL.Presentation.genruntimeconfig.cache
